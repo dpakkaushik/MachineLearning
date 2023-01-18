@@ -1,2 +1,3 @@
 # MachineLearning
-Repository for ML Projects
+This repository contains some of my previous course assignments and ML practice projects.
+
